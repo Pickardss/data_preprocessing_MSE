@@ -30,3 +30,5 @@ This project demonstrates how to build a recommendation system for films and ser
 
 Author: Pickardss
 Date: 15/08/2023
+
+I got help from chatGPT in this project
